@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+   
+
+}
+.header-section{
+    background-image: url("photos/header-bg.png");
+    background-repeat: no-repeat;
+   
+    overflow: hidden;
+
+}
+.half-header{
+    width: 40%;
+    float: left;
+    margin-left: 90px;
+    
+}
+.half-header h1{
+    font-family: 'Montserrat', ;
+    font-size: 50px;
+    color:initial;
+   
+}
+#mizan{
+    color: purple;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.half-header img{
+    width: 100%;
+    margin:80px;
+}
+.half-header h3{
+    font-size: 20px;
+    color:rgb(22, 44, 66);
+    border: 3px dotted purple;
+    border-radius: 2px;
+    padding: 3px;
+}
+#name{
+    margin-top: 200px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(109, 13, 109);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+    
+}
+.link-button:hover{
+    color: pink;
+    background-image: linear-gradient(45deg, rgb(136, 108, 136), rgb(179, 0, 179));
+    overflow: hidden;
+}
+.biography{
+    width: 40%;
+    height: 700px;
+    float: left;
+    margin-left: 90px;
+    overflow: hidden;
+}
+.biography-text{
+    width: 40%;
+    height: 700px;
+    margin-top: 120px;
+    overflow: hidden;
+    float: right;
+    color: rgb(94, 13, 94);
+    font-size: 25px;
+
+}
+.biography img{
+    width: 100%;
+    height: 100%;
+}
+.biography-text p{
+    text-size-adjust: ;
+    text-align: justify;
+    margin-right:10px ;
+    border: 3px dotted purple ;
+    border-radius: 2px;
+    padding: 3px;
+}
+.biography-section{
+    background-image: url("photos/biography-bg.png");
+    background-repeat:no-repeat;
+    height: 700px;
+    width: 100%;
+
+
+}
+#work{
+    text-align: center;
+    font-size: 38px;
+    color: rgb(77, 5, 77);
+    margin-right: 115px;
+    margin-bottom: 7px;
+    
+}
+.latest-work{
+    overflow: hidden;
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    padding-left: 0px;
+    margin: auto;
+    margin-left: 396px;
+
+
+}
+.latest-area{
+    background-image: url("photos/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 0;
+    
+
+}
+.works1{
+    width: 25%;
+    height: auto;
+    float: left;
+}
+.works2{
+    width: 25%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+    float: left;
+}
+.works3{
+    width: 25%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+}
+.latest-work img{
+    width: 100%;
+}
+.latest-work-border{
+    border:2px solid rgb(180, 141, 180);
+    padding: 5px;
+    margin: 5px;
+    border-bottom-right-radius: 7px;
+
+}
+.footer-area{
+    width: 985px;
+    margin: auto;
+    border: 3px dashed rgb(215, 206, 218) ;
+    overflow: hidden;
+   
+    
+}
+#footer{
+    background-image: url("photos/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:500px;
+
+}
+#fa-top{
+    color: rgb(56, 10, 56);
+    font-size: 40px;
+    text-align: center;
+
+
+}
+#fa-middle{
+    font-size: 25px;
+    font-family: Adobe Myungjo Std M;
+    color: rgb(133, 63, 133);
+    text-align: center;
+}
+#fa-bottom{
+  
+    color: darkgray;
+    text-align: center;
+
+}
+#comment{
+    
+    text-align: center;
+    font-family:  ;
+    text-align: center;
+}
+#message-area{
+    width: 300px;
+    margin: auto;
+    padding-bottom: 100px;
+    padding-left: 45px;
+}
+.link-mail{
+    text-decoration: none;
+    background-color: rgb(109, 13, 109);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+
+    
+}   
+    
